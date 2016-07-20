@@ -4,6 +4,11 @@ To use this software you must:
 1. Be running a 64 bit version of Windows
 2. Have Java 7 or greater installed
 
+To download the software:
+1. Click "Clone or Download"
+2. Click "Download Zip"
+3. Unzip the folder
+
 To run the software:
 Click RUN_ME.bat
 (or it may be possible to just click the PokemonGoWallpaperGenerator.jar file on some OS's)
